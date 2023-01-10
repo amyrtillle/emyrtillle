@@ -14,7 +14,10 @@
 ```javascript
 const emy = {
   pronouns: "she" | "her",
-  current position : "Student at MMI Grenoble" && "web developer apprenticeship at Decathlon Outdoor",
+  current position : 
+    "Student at MMI Grenoble" 
+    && 
+    "web developer apprenticeship at Decathlon Outdoor",
   hobbies : [Gaming, Video_editing],
   code: [Javascript, Vuejs, HTML, CSS, PHP],
   techno: [Nuxt, Node, Storybook, Docker],
