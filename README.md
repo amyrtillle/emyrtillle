@@ -6,7 +6,7 @@
 
 [![Twitter: emy_p1_dmi](https://img.shields.io/twitter/follow/emy_p1_dmi?style=social)](https://twitter.com/emy_p1_dmi)
 [![Linkedin: emybausano](https://img.shields.io/badge/-emy_bausano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emy-bausano/)](https://www.linkedin.com/in/emy-bausano/)
-[![GitHub no0pi](https://img.shields.io/github/followers/no0pi?label=follow&style=social)](https://github.com/no0pi)
+[![GitHub no0pi](https://img.shields.io/github/followers/no0pi?label=follow&style=social)](https://github.com/emyrtille)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
