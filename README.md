@@ -6,7 +6,7 @@
 
 [![Twitter: emy_p1_dmi](https://img.shields.io/twitter/follow/emy_p1_dmi?style=social)](https://twitter.com/emy_p1_dmi)
 [![Linkedin: emybausano](https://img.shields.io/badge/-emy_bausano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emy-bausano/)](https://www.linkedin.com/in/emy-bausano/)
-[![GitHub no0pi](https://img.shields.io/github/followers/no0pi?label=follow&style=social)](https://github.com/emyrtille)
+[![GitHub no0pi](https://img.shields.io/github/followers/no0pi?label=follow&style=social)](https://github.com/emyrtillle)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -46,9 +46,9 @@ const emy = {
 ![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=Windows95&logoColor=008080)
 ![Linux](https://img.shields.io/badge/-VisualStudioCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no0pi&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emyrtillle&layout=compact&hide=css,html)
 
-![emyrtille's github stats](https://github-readme-stats.vercel.app/api?username=emyrtille&count_private=true&show_icons=true&theme=onedark)
+![emyrtillle's github stats](https://github-readme-stats.vercel.app/api?username=emyrtillle&count_private=true&show_icons=true&theme=onedark)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
