@@ -27,6 +27,7 @@ const emy = {
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=Javascript&logoColor=f7df1e)
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
 ![Vuejs](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Html](https://img.shields.io/badge/Html5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![Css](https://img.shields.io/badge/Css3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
