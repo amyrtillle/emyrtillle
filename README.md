@@ -1,18 +1,18 @@
 
-<h2> Hi, I'm Emy ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Amy ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Web developer at <a href="https://www.decathlon-outdoor.com/fr-fr">Decathlon Outdoor</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: emy_p1_dmi](https://img.shields.io/twitter/follow/emy_p1_dmi?style=social)](https://twitter.com/emy_p1_dmi)
-[![Linkedin: emybausano](https://img.shields.io/badge/-emy_bausano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emy-bausano/)](https://www.linkedin.com/in/emy-bausano/)
-[![GitHub no0pi](https://img.shields.io/github/followers/no0pi?label=follow&style=social)](https://github.com/emyrtillle)
+[![Twitter: amy_p1_dmi](https://img.shields.io/twitter/follow/emy_p1_dmi?style=social)](https://twitter.com/emy_p1_dmi)
+[![Linkedin: amybausano](https://img.shields.io/badge/-amy_bausano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amy-bausano/)](https://www.linkedin.com/in/emy-bausano/)
+[![GitHub emyrtillle](https://img.shields.io/github/followers/emyrtillle?label=follow&style=social)](https://github.com/emyrtillle)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const emy = {
+const amy-lee = {
   pronouns: "she" | "her",
   current position : 
     "Student at MMI Grenoble" 
