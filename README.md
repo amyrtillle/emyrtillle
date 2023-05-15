@@ -4,7 +4,7 @@
 <p><em>Web developer at <a href="https://www.decathlon-outdoor.com/fr-fr">Decathlon Outdoor</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: amy_p1_dmi](https://img.shields.io/twitter/follow/emy_p1_dmi?style=social)](https://twitter.com/emy_p1_dmi)
+[![Twitter: amy_p1_dmi](https://img.shields.io/twitter/follow/amy_p1_dmi?style=social)](https://twitter.com/amy_p1_dmi)
 [![Linkedin: amybausano](https://img.shields.io/badge/-amy_bausano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amy-bausano/)](https://www.linkedin.com/in/emy-bausano/)
 [![GitHub emyrtillle](https://img.shields.io/github/followers/emyrtillle?label=follow&style=social)](https://github.com/emyrtillle)
 
