@@ -47,9 +47,9 @@ const amy-lee = {
 ![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=Windows95&logoColor=008080)
 ![Linux](https://img.shields.io/badge/-VisualStudioCode-000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emyrtillle&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amyrtillle&layout=compact&hide=css,html)
 
-![emyrtillle's github stats](https://github-readme-stats.vercel.app/api?username=emyrtillle&count_private=true&show_icons=true&theme=onedark)
+![amyrtillle's github stats](https://github-readme-stats.vercel.app/api?username=amyrtillle&count_private=true&show_icons=true&theme=onedark)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
